@@ -1,0 +1,13 @@
+body
+{
+	background-color: black;
+	color: tan;
+	font-size: 20px;
+	font-family: Times New Roman;
+	paddnig: 2px;
+}
+.plan
+{
+	border: 1px dotted white;
+	margin: 2px;
+}
