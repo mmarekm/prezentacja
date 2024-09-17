@@ -1,8 +1,54 @@
 body
 {
 	background-color: black;
-	color: tan;
-	font-size: 20px;
-	font-family: Times New Roman;
-	paddnig: 2px;
+	color: brown;
+	font-size: 40px;
+	font-family: Times New Roman;	
+	text-align: center;
+	padding: 5px;
+}
+.slowoBoze
+{
+	margin: 10px;
+}
+.podzial
+{
+	display: flex;
+}
+.ula
+{
+	background-image: url("img/Ula.jpg");
+	width: 30%;	
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 10px;
+	border: 1px dotted tan;
+	padding: 10px;
+}
+.basia
+{
+	background-image: url("img/Basia.jpg");
+	width: 30%;	
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 10px;
+	border: 1px dotted tan;
+	padding: 10px;
+}
+.ania
+{
+	background-image: url("img/Ania.jpg");
+	width: 30%;	
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 10px;
+	border: 1px dotted tan;
+	padding: 10px;
+}
+a
+{
+	color: white;
 }
